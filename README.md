@@ -9,6 +9,14 @@
 
 ---
 
+## 🖥️ Vista Previa
+
+<p align="center">
+  <img src="preview.png" alt="Vista previa de KALI-HUB" width="900"/>
+</p>
+
+---
+
 ## 🚀 Características
 
 * **Ajuste Técnico Kali Linux**: Entorno visual con paleta pizarra-azul fría, tipografía monoespaciada de consola y un isotipo vectorizado del dragón de Kali.
