@@ -4,8 +4,11 @@
 [![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS%20(Vanilla)-38ef7d?style=flat-square)](https://github.com/Lucas18062025)
 [![Focus](https://img.shields.io/badge/Focus-Pentesting%20%7C%20Packet%20Analysis-007acc?style=flat-square)](https://github.com/Lucas18062025)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=flat-square)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/Demo-Live-8b5cf6?style=flat-square)](https://lucas18062025.github.io/KALI-HUB/)
 
 *Manual técnico interactivo local y repositorio de referencia estructurado con comandos reales, pro-tips de evasión, diagnóstico de errores de ejecución y resultados esperados para Nmap, Wireshark, Tshark y la suite Aircrack-ng. Diseñado con una interfaz oscura fluida inspirada en Kali Linux.*
+
+**🌐 Demo en vivo:** https://lucas18062025.github.io/KALI-HUB/
 
 ---
 
